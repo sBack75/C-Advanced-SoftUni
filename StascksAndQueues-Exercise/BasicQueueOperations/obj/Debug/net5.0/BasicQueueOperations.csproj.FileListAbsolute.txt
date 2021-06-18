@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.exe
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.deps.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.runtimeconfig.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\bin\Debug\net5.0\ref\BasicQueueOperations.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.pdb
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net5.0\ref\BasicQueueOperations.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.pdb
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.genruntimeconfig.cache
