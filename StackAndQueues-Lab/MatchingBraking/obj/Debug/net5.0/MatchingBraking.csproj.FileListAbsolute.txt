@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\bin\Debug\net5.0\MatchingBraking.exe
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\bin\Debug\net5.0\MatchingBraking.deps.json
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\bin\Debug\net5.0\MatchingBraking.runtimeconfig.json
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\bin\Debug\net5.0\MatchingBraking.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\bin\Debug\net5.0\MatchingBraking.dll
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\bin\Debug\net5.0\ref\MatchingBraking.dll
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\bin\Debug\net5.0\MatchingBraking.pdb
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\obj\Debug\net5.0\MatchingBraking.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\obj\Debug\net5.0\MatchingBraking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\obj\Debug\net5.0\MatchingBraking.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\obj\Debug\net5.0\MatchingBraking.AssemblyInfo.cs
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\obj\Debug\net5.0\MatchingBraking.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\obj\Debug\net5.0\MatchingBraking.dll
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\obj\Debug\net5.0\ref\MatchingBraking.dll
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\obj\Debug\net5.0\MatchingBraking.pdb
+C:\Users\Legion\source\repos\StackAndQueues-Lab\MatchingBraking\obj\Debug\net5.0\MatchingBraking.genruntimeconfig.cache
