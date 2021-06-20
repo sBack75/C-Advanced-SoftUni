@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.exe
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.deps.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\bin\Debug\net5.0\ref\MaximumAndMinimumElement.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.pdb
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net5.0\ref\MaximumAndMinimumElement.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.pdb
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.genruntimeconfig.cache

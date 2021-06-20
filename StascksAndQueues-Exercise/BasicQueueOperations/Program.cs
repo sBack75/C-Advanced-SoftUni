@@ -41,7 +41,7 @@ namespace BasicQueueOperations
                 int minNum = myQueue.Min();
                 Console.WriteLine(minNum);
             }
-            
+            myQueue
         }
     }
 }

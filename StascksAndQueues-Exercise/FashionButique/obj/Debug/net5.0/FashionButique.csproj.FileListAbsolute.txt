@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\bin\Debug\net5.0\FashionButique.exe
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\bin\Debug\net5.0\FashionButique.deps.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\bin\Debug\net5.0\FashionButique.runtimeconfig.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\bin\Debug\net5.0\FashionButique.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\bin\Debug\net5.0\FashionButique.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\bin\Debug\net5.0\ref\FashionButique.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\bin\Debug\net5.0\FashionButique.pdb
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\obj\Debug\net5.0\FashionButique.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\obj\Debug\net5.0\FashionButique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\obj\Debug\net5.0\FashionButique.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\obj\Debug\net5.0\FashionButique.AssemblyInfo.cs
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\obj\Debug\net5.0\FashionButique.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\obj\Debug\net5.0\FashionButique.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\obj\Debug\net5.0\ref\FashionButique.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\obj\Debug\net5.0\FashionButique.pdb
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FashionButique\obj\Debug\net5.0\FashionButique.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\bin\Debug\net5.0\FastFood.exe
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\bin\Debug\net5.0\FastFood.deps.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\bin\Debug\net5.0\FastFood.runtimeconfig.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\bin\Debug\net5.0\FastFood.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\bin\Debug\net5.0\FastFood.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\bin\Debug\net5.0\ref\FastFood.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\bin\Debug\net5.0\FastFood.pdb
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\obj\Debug\net5.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\obj\Debug\net5.0\FastFood.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\obj\Debug\net5.0\FastFood.AssemblyInfo.cs
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\obj\Debug\net5.0\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\obj\Debug\net5.0\FastFood.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\obj\Debug\net5.0\ref\FastFood.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\obj\Debug\net5.0\FastFood.pdb
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\FastFood\obj\Debug\net5.0\FastFood.genruntimeconfig.cache

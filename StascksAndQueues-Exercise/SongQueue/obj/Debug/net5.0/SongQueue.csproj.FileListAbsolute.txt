@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\bin\Debug\net5.0\SongQueue.exe
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\bin\Debug\net5.0\SongQueue.deps.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\bin\Debug\net5.0\SongQueue.runtimeconfig.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\bin\Debug\net5.0\SongQueue.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\bin\Debug\net5.0\SongQueue.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\bin\Debug\net5.0\ref\SongQueue.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\bin\Debug\net5.0\SongQueue.pdb
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\obj\Debug\net5.0\SongQueue.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\obj\Debug\net5.0\SongQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\obj\Debug\net5.0\SongQueue.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\obj\Debug\net5.0\SongQueue.AssemblyInfo.cs
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\obj\Debug\net5.0\SongQueue.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\obj\Debug\net5.0\SongQueue.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\obj\Debug\net5.0\ref\SongQueue.dll
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\obj\Debug\net5.0\SongQueue.pdb
+C:\Users\Legion\source\repos\StascksAndQueues-Exercise\SongQueue\obj\Debug\net5.0\SongQueue.genruntimeconfig.cache
