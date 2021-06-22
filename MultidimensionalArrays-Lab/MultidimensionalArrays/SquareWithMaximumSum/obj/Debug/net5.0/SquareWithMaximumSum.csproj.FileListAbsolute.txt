@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\net5.0\SquareWithMaximumSum.exe
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\net5.0\SquareWithMaximumSum.deps.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\net5.0\SquareWithMaximumSum.runtimeconfig.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\net5.0\SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\net5.0\SquareWithMaximumSum.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\net5.0\ref\SquareWithMaximumSum.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\net5.0\SquareWithMaximumSum.pdb
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net5.0\ref\SquareWithMaximumSum.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.pdb
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.genruntimeconfig.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\net5.0\SquareWithMaximumSum.csprojAssemblyReference.cache

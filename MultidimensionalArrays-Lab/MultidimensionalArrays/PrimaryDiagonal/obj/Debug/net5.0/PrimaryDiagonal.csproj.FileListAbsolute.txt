@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.exe
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.deps.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.runtimeconfig.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net5.0\ref\PrimaryDiagonal.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.pdb
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net5.0\ref\PrimaryDiagonal.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.pdb
+C:\Users\Legion\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.genruntimeconfig.cache

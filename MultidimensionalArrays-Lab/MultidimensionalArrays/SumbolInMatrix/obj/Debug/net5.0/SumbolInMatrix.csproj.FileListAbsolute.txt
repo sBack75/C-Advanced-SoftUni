@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\bin\Debug\net5.0\SumbolInMatrix.exe
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\bin\Debug\net5.0\SumbolInMatrix.deps.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\bin\Debug\net5.0\SumbolInMatrix.runtimeconfig.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\bin\Debug\net5.0\SumbolInMatrix.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\bin\Debug\net5.0\SumbolInMatrix.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\bin\Debug\net5.0\ref\SumbolInMatrix.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\bin\Debug\net5.0\SumbolInMatrix.pdb
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\obj\Debug\net5.0\SumbolInMatrix.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\obj\Debug\net5.0\SumbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\obj\Debug\net5.0\SumbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\obj\Debug\net5.0\SumbolInMatrix.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\obj\Debug\net5.0\SumbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\obj\Debug\net5.0\SumbolInMatrix.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\obj\Debug\net5.0\ref\SumbolInMatrix.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\obj\Debug\net5.0\SumbolInMatrix.pdb
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumbolInMatrix\obj\Debug\net5.0\SumbolInMatrix.genruntimeconfig.cache

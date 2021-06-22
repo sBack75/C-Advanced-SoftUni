@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\bin\Debug\net5.0\SumMatrixColumns.exe
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\bin\Debug\net5.0\SumMatrixColumns.deps.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\bin\Debug\net5.0\SumMatrixColumns.runtimeconfig.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\bin\Debug\net5.0\SumMatrixColumns.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\bin\Debug\net5.0\SumMatrixColumns.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\bin\Debug\net5.0\ref\SumMatrixColumns.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\bin\Debug\net5.0\SumMatrixColumns.pdb
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\obj\Debug\net5.0\ref\SumMatrixColumns.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.pdb
+C:\Users\Legion\source\repos\MultidimensionalArrays\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.genruntimeconfig.cache
