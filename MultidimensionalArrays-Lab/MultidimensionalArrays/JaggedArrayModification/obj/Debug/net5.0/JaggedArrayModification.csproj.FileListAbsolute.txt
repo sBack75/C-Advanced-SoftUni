@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\net5.0\JaggedArrayModification.exe
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\net5.0\JaggedArrayModification.deps.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\net5.0\JaggedArrayModification.runtimeconfig.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\net5.0\JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\net5.0\JaggedArrayModification.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\net5.0\ref\JaggedArrayModification.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\net5.0\JaggedArrayModification.pdb
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.AssemblyInfo.cs
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net5.0\ref\JaggedArrayModification.dll
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.pdb
+C:\Users\Legion\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.genruntimeconfig.cache
