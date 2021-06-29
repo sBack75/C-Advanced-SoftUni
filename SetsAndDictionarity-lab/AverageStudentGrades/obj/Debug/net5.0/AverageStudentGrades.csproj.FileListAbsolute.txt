@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\obj\Debug\net5.0\AverageStudentGrades.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\obj\Debug\net5.0\AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\obj\Debug\net5.0\AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\obj\Debug\net5.0\AverageStudentGrades.AssemblyInfo.cs
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\obj\Debug\net5.0\AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\bin\Debug\net5.0\AverageStudentGrades.exe
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\bin\Debug\net5.0\AverageStudentGrades.deps.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\bin\Debug\net5.0\AverageStudentGrades.runtimeconfig.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\bin\Debug\net5.0\AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\bin\Debug\net5.0\AverageStudentGrades.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\bin\Debug\net5.0\ref\AverageStudentGrades.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\bin\Debug\net5.0\AverageStudentGrades.pdb
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\obj\Debug\net5.0\AverageStudentGrades.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\obj\Debug\net5.0\ref\AverageStudentGrades.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\obj\Debug\net5.0\AverageStudentGrades.pdb
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\AverageStudentGrades\obj\Debug\net5.0\AverageStudentGrades.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\bin\Debug\net5.0\CountSameValueInArray.exe
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\bin\Debug\net5.0\CountSameValueInArray.deps.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\bin\Debug\net5.0\CountSameValueInArray.runtimeconfig.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\bin\Debug\net5.0\CountSameValueInArray.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\bin\Debug\net5.0\CountSameValueInArray.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\bin\Debug\net5.0\ref\CountSameValueInArray.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\bin\Debug\net5.0\CountSameValueInArray.pdb
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\obj\Debug\net5.0\CountSameValueInArray.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\obj\Debug\net5.0\CountSameValueInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\obj\Debug\net5.0\CountSameValueInArray.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\obj\Debug\net5.0\CountSameValueInArray.AssemblyInfo.cs
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\obj\Debug\net5.0\CountSameValueInArray.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\obj\Debug\net5.0\CountSameValueInArray.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\obj\Debug\net5.0\ref\CountSameValueInArray.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\obj\Debug\net5.0\CountSameValueInArray.pdb
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CountSameValueInArray\obj\Debug\net5.0\CountSameValueInArray.genruntimeconfig.cache
