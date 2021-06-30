@@ -36,9 +36,15 @@ namespace AverageStudentGrades
 
             foreach (var item in students)
             {
-                Console.WriteLine($"{item.Key} {item.Value}");
+                Console.Write($"{item.Key} ->");
 
-               
+                foreach (var secondItem in students)
+                {
+                    Console.Write(string.Join(' ', item.Value));
+                    Console.Write($"(avg: {item.Value.Average(x=>x)})");
+                    break;
+                }
+                Console.WriteLine();
             }
         }
     }

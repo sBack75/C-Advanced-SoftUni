@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\bin\Debug\net5.0\ProductShop.exe
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\bin\Debug\net5.0\ProductShop.deps.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\bin\Debug\net5.0\ProductShop.runtimeconfig.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\bin\Debug\net5.0\ProductShop.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\bin\Debug\net5.0\ProductShop.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\bin\Debug\net5.0\ref\ProductShop.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\bin\Debug\net5.0\ProductShop.pdb
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\obj\Debug\net5.0\ProductShop.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\obj\Debug\net5.0\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\obj\Debug\net5.0\ProductShop.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\obj\Debug\net5.0\ProductShop.AssemblyInfo.cs
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\obj\Debug\net5.0\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\obj\Debug\net5.0\ProductShop.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\obj\Debug\net5.0\ref\ProductShop.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\obj\Debug\net5.0\ProductShop.pdb
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ProductShop\obj\Debug\net5.0\ProductShop.genruntimeconfig.cache
