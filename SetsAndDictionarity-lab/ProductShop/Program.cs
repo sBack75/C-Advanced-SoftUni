@@ -8,45 +8,39 @@ namespace ProductShop
     {
         static void Main(string[] args)
         {
-            SortedDictionary<string, Dictionary<string, double>> stores = new SortedDictionary<string, Dictionary<string, double>>() ;
+            Dictionary<string, Dictionary<string, double>> shopsList = new Dictionary<string, Dictionary<string, double>>();
+
 
             while (true)
             {
-                string[] curData = Console.ReadLine()
-                    .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                string[] command = Console.ReadLine()
+                    .Split(',', StringSplitOptions.RemoveEmptyEntries)
                     .ToArray();
-                if (curData[0] == "Revision")
+
+                if (command[0] == "Revision")
                 {
                     break;
                 }
-                string shopName = curData[0];
-                string product = curData[1];
-                double price = double.Parse(curData[2]);
+                string store = command[0];
+                string product = command[1];
+                double price = double.Parse(command[2]);
 
-               
-                if (stores.ContainsKey(shopName)) 
+                if (!shopsList.ContainsKey(store))
                 {
-                    Dictionary<string, double> curInf = new Dictionary<string, double>();
-                    curInf.Add(product, price);
-                    stores[shopName].Add(product,price);
+                    shopsList.Add(store, new Dictionary<string, double>());
+                    shopsList[store].Add(product, price);
                 }
-                else
+                else if (shopsList.ContainsKey(store)) 
                 {
-                    Dictionary<string, double> curInf = new Dictionary<string, double>();
-                    curInf.Add(product, price);
-                    stores.Add(shopName , curInf);
+                    shopsList[store].Add(product, price);
                 }
-
             }
 
-            foreach (var item in stores)
+            foreach (var item in shopsList)
             {
-                Console.WriteLine($"{item.Key}->");
+                Console.WriteLine($"{item.Key} ->");
 
-                foreach (var curIt in item.Value)
-                {
-                    Console.WriteLine($"Product: {curIt.Key} Price: {curIt.Value}");
-                }
+                Console.WriteLine(string.Join(' ',shopsList.Values));
             }
         }
     }

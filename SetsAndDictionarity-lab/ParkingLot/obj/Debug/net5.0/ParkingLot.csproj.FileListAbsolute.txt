@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\bin\Debug\net5.0\ParkingLot.exe
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\bin\Debug\net5.0\ParkingLot.deps.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\bin\Debug\net5.0\ParkingLot.runtimeconfig.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\bin\Debug\net5.0\ParkingLot.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\bin\Debug\net5.0\ParkingLot.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\bin\Debug\net5.0\ref\ParkingLot.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\bin\Debug\net5.0\ParkingLot.pdb
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\obj\Debug\net5.0\ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\obj\Debug\net5.0\ParkingLot.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\obj\Debug\net5.0\ParkingLot.AssemblyInfo.cs
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\obj\Debug\net5.0\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\obj\Debug\net5.0\ParkingLot.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\obj\Debug\net5.0\ref\ParkingLot.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\obj\Debug\net5.0\ParkingLot.pdb
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\ParkingLot\obj\Debug\net5.0\ParkingLot.genruntimeconfig.cache

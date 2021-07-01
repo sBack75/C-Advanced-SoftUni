@@ -8,43 +8,34 @@ namespace AverageStudentGrades
     {
         static void Main(string[] args)
         {
-            int numberStudents = int.Parse(Console.ReadLine());
-            Dictionary<string, List<double>> students = new Dictionary<string, List<double>>();
-
-            for (int i = 0; i < numberStudents; i++)
+            int howMany = int.Parse(Console.ReadLine());
+            Dictionary<string, List<decimal>> students = new Dictionary<string, List<decimal>>();
+            for (int i = 0; i < howMany; i++)
             {
                 string[] curData = Console.ReadLine()
                     .Split(' ', StringSplitOptions.RemoveEmptyEntries)
                     .ToArray();
 
                 string name = curData[0];
-                double grades = double.Parse(curData[1]);
-                List<double> mySecList = new List<double>();
-                mySecList.Add(grades);
-                if (students.ContainsKey(name) == true)
+                decimal mark = decimal.Parse(curData[1]);
+
+                if (!students.ContainsKey(name))
                 {
-
-                  
-                    students[name].Add(grades);
-
+                    students.Add(name, new List<decimal>());
+                    students[name].Add(mark);
                 }
                 else
                 {
-                    students.Add(name, mySecList);
+                    students[name].Add(mark);
                 }
             }
 
             foreach (var item in students)
             {
-                Console.Write($"{item.Key} ->");
+                Console.Write($"{item.Key} -> ");
 
-                foreach (var secondItem in students)
-                {
-                    Console.Write(string.Join(' ', item.Value));
-                    Console.Write($"(avg: {item.Value.Average(x=>x)})");
-                    break;
-                }
-                Console.WriteLine();
+                Console.Write(string.Join(' ',item.Value));
+                Console.WriteLine($" (avg: {item.Value.Average():f2})");
             }
         }
     }

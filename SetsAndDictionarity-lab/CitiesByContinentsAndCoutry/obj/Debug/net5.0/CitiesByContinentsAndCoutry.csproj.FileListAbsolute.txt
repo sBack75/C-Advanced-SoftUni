@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\bin\Debug\net5.0\CitiesByContinentsAndCoutry.exe
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\bin\Debug\net5.0\CitiesByContinentsAndCoutry.deps.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\bin\Debug\net5.0\CitiesByContinentsAndCoutry.runtimeconfig.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\bin\Debug\net5.0\CitiesByContinentsAndCoutry.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\bin\Debug\net5.0\CitiesByContinentsAndCoutry.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\bin\Debug\net5.0\ref\CitiesByContinentsAndCoutry.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\bin\Debug\net5.0\CitiesByContinentsAndCoutry.pdb
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\obj\Debug\net5.0\CitiesByContinentsAndCoutry.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\obj\Debug\net5.0\CitiesByContinentsAndCoutry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\obj\Debug\net5.0\CitiesByContinentsAndCoutry.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\obj\Debug\net5.0\CitiesByContinentsAndCoutry.AssemblyInfo.cs
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\obj\Debug\net5.0\CitiesByContinentsAndCoutry.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\obj\Debug\net5.0\CitiesByContinentsAndCoutry.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\obj\Debug\net5.0\ref\CitiesByContinentsAndCoutry.dll
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\obj\Debug\net5.0\CitiesByContinentsAndCoutry.pdb
+C:\Users\Legion\source\repos\SetsAndDictionarity-lab\CitiesByContinentsAndCoutry\obj\Debug\net5.0\CitiesByContinentsAndCoutry.genruntimeconfig.cache
