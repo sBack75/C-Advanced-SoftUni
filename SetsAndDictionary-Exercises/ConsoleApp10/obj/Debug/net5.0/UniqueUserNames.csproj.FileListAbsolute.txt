@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\bin\Debug\net5.0\UniqueUserNames.exe
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\bin\Debug\net5.0\UniqueUserNames.deps.json
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\bin\Debug\net5.0\UniqueUserNames.runtimeconfig.json
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\bin\Debug\net5.0\UniqueUserNames.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\bin\Debug\net5.0\UniqueUserNames.dll
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\bin\Debug\net5.0\ref\UniqueUserNames.dll
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\bin\Debug\net5.0\UniqueUserNames.pdb
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\obj\Debug\net5.0\UniqueUserNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\obj\Debug\net5.0\UniqueUserNames.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\obj\Debug\net5.0\UniqueUserNames.AssemblyInfo.cs
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\obj\Debug\net5.0\UniqueUserNames.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\obj\Debug\net5.0\UniqueUserNames.dll
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\obj\Debug\net5.0\ref\UniqueUserNames.dll
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\obj\Debug\net5.0\UniqueUserNames.pdb
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\ConsoleApp10\obj\Debug\net5.0\UniqueUserNames.genruntimeconfig.cache

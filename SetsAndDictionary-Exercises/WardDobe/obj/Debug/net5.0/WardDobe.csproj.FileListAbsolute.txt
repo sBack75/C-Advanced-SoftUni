@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\bin\Debug\net5.0\WardDobe.exe
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\bin\Debug\net5.0\WardDobe.deps.json
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\bin\Debug\net5.0\WardDobe.runtimeconfig.json
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\bin\Debug\net5.0\WardDobe.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\bin\Debug\net5.0\WardDobe.dll
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\bin\Debug\net5.0\ref\WardDobe.dll
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\bin\Debug\net5.0\WardDobe.pdb
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\obj\Debug\net5.0\WardDobe.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\obj\Debug\net5.0\WardDobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\obj\Debug\net5.0\WardDobe.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\obj\Debug\net5.0\WardDobe.AssemblyInfo.cs
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\obj\Debug\net5.0\WardDobe.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\obj\Debug\net5.0\WardDobe.dll
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\obj\Debug\net5.0\ref\WardDobe.dll
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\obj\Debug\net5.0\WardDobe.pdb
+C:\Users\Legion\source\repos\SetsAndDictionary-Exercises\WardDobe\obj\Debug\net5.0\WardDobe.genruntimeconfig.cache
