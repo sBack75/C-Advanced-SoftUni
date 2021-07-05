@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\bin\Debug\net5.0\CenturiesToMinutes.exe
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\bin\Debug\net5.0\CenturiesToMinutes.deps.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\bin\Debug\net5.0\CenturiesToMinutes.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\bin\Debug\net5.0\CenturiesToMinutes.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\bin\Debug\net5.0\CenturiesToMinutes.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\bin\Debug\net5.0\ref\CenturiesToMinutes.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\bin\Debug\net5.0\CenturiesToMinutes.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\obj\Debug\net5.0\ref\CenturiesToMinutes.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.genruntimeconfig.cache

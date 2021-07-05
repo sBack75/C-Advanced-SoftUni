@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\bin\Debug\net5.0\NationalCourt.exe
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\bin\Debug\net5.0\NationalCourt.deps.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\bin\Debug\net5.0\NationalCourt.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\bin\Debug\net5.0\NationalCourt.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\bin\Debug\net5.0\NationalCourt.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\bin\Debug\net5.0\ref\NationalCourt.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\bin\Debug\net5.0\NationalCourt.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\obj\Debug\net5.0\NationalCourt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\obj\Debug\net5.0\NationalCourt.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\obj\Debug\net5.0\NationalCourt.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\obj\Debug\net5.0\NationalCourt.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\obj\Debug\net5.0\NationalCourt.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\obj\Debug\net5.0\ref\NationalCourt.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\obj\Debug\net5.0\NationalCourt.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\NationalCourt\obj\Debug\net5.0\NationalCourt.genruntimeconfig.cache

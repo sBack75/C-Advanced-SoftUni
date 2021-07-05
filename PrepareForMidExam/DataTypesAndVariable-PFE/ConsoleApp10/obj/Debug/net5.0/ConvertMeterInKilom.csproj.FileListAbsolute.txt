@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\bin\Debug\net5.0\ConvertMeterInKilom.exe
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\bin\Debug\net5.0\ConvertMeterInKilom.deps.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\bin\Debug\net5.0\ConvertMeterInKilom.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\bin\Debug\net5.0\ConvertMeterInKilom.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\bin\Debug\net5.0\ConvertMeterInKilom.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\bin\Debug\net5.0\ref\ConvertMeterInKilom.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\bin\Debug\net5.0\ConvertMeterInKilom.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\obj\Debug\net5.0\ConvertMeterInKilom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\obj\Debug\net5.0\ConvertMeterInKilom.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\obj\Debug\net5.0\ConvertMeterInKilom.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\obj\Debug\net5.0\ConvertMeterInKilom.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\obj\Debug\net5.0\ConvertMeterInKilom.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\obj\Debug\net5.0\ref\ConvertMeterInKilom.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\obj\Debug\net5.0\ConvertMeterInKilom.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ConsoleApp10\obj\Debug\net5.0\ConvertMeterInKilom.genruntimeconfig.cache

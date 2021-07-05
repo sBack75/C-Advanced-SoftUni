@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BonusScoringSystem-midExam/1.0.0": {
+        "runtime": {
+          "BonusScoringSystem-midExam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BonusScoringSystem-midExam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

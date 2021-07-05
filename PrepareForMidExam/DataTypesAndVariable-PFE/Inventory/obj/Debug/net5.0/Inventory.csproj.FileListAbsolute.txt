@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\bin\Debug\net5.0\Inventory.exe
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\bin\Debug\net5.0\Inventory.deps.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\bin\Debug\net5.0\Inventory.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\bin\Debug\net5.0\Inventory.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\bin\Debug\net5.0\Inventory.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\bin\Debug\net5.0\ref\Inventory.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\bin\Debug\net5.0\Inventory.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\obj\Debug\net5.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\obj\Debug\net5.0\Inventory.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\obj\Debug\net5.0\Inventory.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\obj\Debug\net5.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\obj\Debug\net5.0\Inventory.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\obj\Debug\net5.0\ref\Inventory.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\obj\Debug\net5.0\Inventory.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Inventory\obj\Debug\net5.0\Inventory.genruntimeconfig.cache

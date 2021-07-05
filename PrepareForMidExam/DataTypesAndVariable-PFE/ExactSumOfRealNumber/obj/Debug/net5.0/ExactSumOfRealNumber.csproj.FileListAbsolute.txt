@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\bin\Debug\net5.0\ExactSumOfRealNumber.exe
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\bin\Debug\net5.0\ExactSumOfRealNumber.deps.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\bin\Debug\net5.0\ExactSumOfRealNumber.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\bin\Debug\net5.0\ExactSumOfRealNumber.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\bin\Debug\net5.0\ExactSumOfRealNumber.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\bin\Debug\net5.0\ref\ExactSumOfRealNumber.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\bin\Debug\net5.0\ExactSumOfRealNumber.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\obj\Debug\net5.0\ExactSumOfRealNumber.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\obj\Debug\net5.0\ExactSumOfRealNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\obj\Debug\net5.0\ExactSumOfRealNumber.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\obj\Debug\net5.0\ExactSumOfRealNumber.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\obj\Debug\net5.0\ExactSumOfRealNumber.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\obj\Debug\net5.0\ExactSumOfRealNumber.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\obj\Debug\net5.0\ref\ExactSumOfRealNumber.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\obj\Debug\net5.0\ExactSumOfRealNumber.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ExactSumOfRealNumber\obj\Debug\net5.0\ExactSumOfRealNumber.genruntimeconfig.cache

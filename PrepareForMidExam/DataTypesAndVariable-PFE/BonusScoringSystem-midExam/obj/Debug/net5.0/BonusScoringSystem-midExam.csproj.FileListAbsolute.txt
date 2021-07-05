@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\bin\Debug\net5.0\BonusScoringSystem-midExam.exe
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\bin\Debug\net5.0\BonusScoringSystem-midExam.deps.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\bin\Debug\net5.0\BonusScoringSystem-midExam.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\bin\Debug\net5.0\BonusScoringSystem-midExam.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\bin\Debug\net5.0\BonusScoringSystem-midExam.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\bin\Debug\net5.0\ref\BonusScoringSystem-midExam.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\bin\Debug\net5.0\BonusScoringSystem-midExam.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\obj\Debug\net5.0\BonusScoringSystem-midExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\obj\Debug\net5.0\BonusScoringSystem-midExam.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\obj\Debug\net5.0\BonusScoringSystem-midExam.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\obj\Debug\net5.0\BonusScoringSystem-midExam.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\obj\Debug\net5.0\BonusScoringSystem-midExam.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\obj\Debug\net5.0\ref\BonusScoringSystem-midExam.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\obj\Debug\net5.0\BonusScoringSystem-midExam.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\BonusScoringSystem-midExam\obj\Debug\net5.0\BonusScoringSystem-midExam.genruntimeconfig.cache
