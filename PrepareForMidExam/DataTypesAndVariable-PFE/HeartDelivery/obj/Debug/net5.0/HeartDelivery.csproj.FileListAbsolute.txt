@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\bin\Debug\net5.0\HeartDelivery.exe
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\bin\Debug\net5.0\HeartDelivery.deps.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\bin\Debug\net5.0\HeartDelivery.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\bin\Debug\net5.0\HeartDelivery.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\bin\Debug\net5.0\HeartDelivery.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\bin\Debug\net5.0\ref\HeartDelivery.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\bin\Debug\net5.0\HeartDelivery.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\obj\Debug\net5.0\HeartDelivery.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\obj\Debug\net5.0\HeartDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\obj\Debug\net5.0\HeartDelivery.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\obj\Debug\net5.0\HeartDelivery.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\obj\Debug\net5.0\HeartDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\obj\Debug\net5.0\HeartDelivery.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\obj\Debug\net5.0\ref\HeartDelivery.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\obj\Debug\net5.0\HeartDelivery.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\HeartDelivery\obj\Debug\net5.0\HeartDelivery.genruntimeconfig.cache

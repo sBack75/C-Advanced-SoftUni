@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\obj\Debug\net5.0\ShopingList.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\obj\Debug\net5.0\ShopingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\obj\Debug\net5.0\ShopingList.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\obj\Debug\net5.0\ShopingList.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\obj\Debug\net5.0\ShopingList.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\bin\Debug\net5.0\ShopingList.exe
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\bin\Debug\net5.0\ShopingList.deps.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\bin\Debug\net5.0\ShopingList.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\bin\Debug\net5.0\ShopingList.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\bin\Debug\net5.0\ShopingList.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\bin\Debug\net5.0\ref\ShopingList.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\bin\Debug\net5.0\ShopingList.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\obj\Debug\net5.0\ShopingList.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\obj\Debug\net5.0\ref\ShopingList.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\obj\Debug\net5.0\ShopingList.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ShopingList\obj\Debug\net5.0\ShopingList.genruntimeconfig.cache

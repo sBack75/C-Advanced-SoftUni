@@ -31,7 +31,7 @@ namespace NationalCourt
 
             }
 
-            Console.WriteLine($"Time needed: {totalHour}");
+            Console.WriteLine($"Time needed: {totalHour}h. ");
         }
     }
 }
