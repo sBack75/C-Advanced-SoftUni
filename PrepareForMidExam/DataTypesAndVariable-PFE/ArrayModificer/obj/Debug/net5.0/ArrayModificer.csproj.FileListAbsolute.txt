@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\bin\Debug\net5.0\ArrayModificer.exe
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\bin\Debug\net5.0\ArrayModificer.deps.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\bin\Debug\net5.0\ArrayModificer.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\bin\Debug\net5.0\ArrayModificer.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\bin\Debug\net5.0\ArrayModificer.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\bin\Debug\net5.0\ref\ArrayModificer.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\bin\Debug\net5.0\ArrayModificer.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\obj\Debug\net5.0\ArrayModificer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\obj\Debug\net5.0\ArrayModificer.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\obj\Debug\net5.0\ArrayModificer.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\obj\Debug\net5.0\ArrayModificer.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\obj\Debug\net5.0\ArrayModificer.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\obj\Debug\net5.0\ref\ArrayModificer.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\obj\Debug\net5.0\ArrayModificer.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\ArrayModificer\obj\Debug\net5.0\ArrayModificer.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\bin\Debug\net5.0\Numbers.exe
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\bin\Debug\net5.0\Numbers.deps.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\bin\Debug\net5.0\Numbers.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\bin\Debug\net5.0\ref\Numbers.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\bin\Debug\net5.0\Numbers.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\obj\Debug\net5.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfo.cs
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\obj\Debug\net5.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\obj\Debug\net5.0\Numbers.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\obj\Debug\net5.0\ref\Numbers.dll
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\obj\Debug\net5.0\Numbers.pdb
+C:\Users\Legion\source\repos\DataTypesAndVariable-PFE\Numbers\obj\Debug\net5.0\Numbers.genruntimeconfig.cache

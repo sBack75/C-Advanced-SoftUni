@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "BonusScoringSystem-midExam/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BonusScoringSystem-midExam.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BonusScoringSystem-midExam.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BonusScoringSystem-midExam/1.0.0": {
+      "type": "project",
+      "path": "../BonusScoringSystem-midExam/BonusScoringSystem-midExam.csproj",
+      "msbuildProject": "../BonusScoringSystem-midExam/BonusScoringSystem-midExam.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "BonusScoringSystem-midExam >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Legion\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Legion\\source\\repos\\DataTypesAndVariable-PFE\\BonusScoringSystem-midExam\\BonusScoringSystem-midExam.csproj": {
+              "projectPath": "C:\\Users\\Legion\\source\\repos\\DataTypesAndVariable-PFE\\BonusScoringSystem-midExam\\BonusScoringSystem-midExam.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
